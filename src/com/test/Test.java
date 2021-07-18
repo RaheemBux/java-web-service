@@ -12,6 +12,7 @@ import javax.ws.rs.core.MediaType;
 @Path("/test")
 public class Test {
 	
+	// get, post	
 	
 	@GET
 	@Produces(MediaType.TEXT_PLAIN)
